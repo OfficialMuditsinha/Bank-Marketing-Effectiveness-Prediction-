@@ -1,1 +1,1 @@
-# Bank-Marketing-Effectiveness-Prediction-
+# Bank arketing Effectiveness Prediction
