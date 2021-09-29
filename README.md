@@ -13,3 +13,10 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 # Libraries used for Data visualization
 * Matplotlib
 * Seaborn
+# Algorithms Used
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest
+* k-nearest neighbors 
+# Evaluation Matrics Used 
+* ROC-AUC (Score Achieve :0.92)
