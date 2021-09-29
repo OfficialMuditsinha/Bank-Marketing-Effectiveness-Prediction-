@@ -13,12 +13,12 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 # Libraries used for Data visualization
 * Matplotlib
 * Seaborn
-# Algorithms Used(Baseline Models)
+# Algorithms Used (Baseline Models)
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest
 * k-nearest neighbors 
 # Final Algorithm 
-* K-nearest neighbors(Tuned using GrindsearchCV Technique)
+* K-nearest neighbors (Tuned using GrindsearchCV Technique)
 # Evaluation Matrics Used 
 * ROC-AUC (Score Achieve :0.92)
