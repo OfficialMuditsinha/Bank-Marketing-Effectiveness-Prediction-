@@ -10,6 +10,6 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 *  Balancing the Dataset
 *  Baseline Models
 *  Final Model
-#Libraries used for Data visualization
+# Libraries used for Data visualization
 * Matplotlib
 * Seaborn
