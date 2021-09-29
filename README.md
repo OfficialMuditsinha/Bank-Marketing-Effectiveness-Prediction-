@@ -21,4 +21,4 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 # Final Algorithm 
 * K-nearest neighbors (Tuned using GrindsearchCV Technique)
 # Evaluation Matrics Used 
-* ROC-AUC (Score Achieve :0.92)
+* ROC-AUC (Score Achieve : 0.92)
