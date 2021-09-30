@@ -7,7 +7,9 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 *  Univariate Data Analysis
 *  Bivariate Data Analysis
 *  Feature Engineering
+*  Feature Selection
 *  Balancing the Dataset
+*  Choosing correct evaluation metrics
 *  Baseline Models
 *  Final Model
 # Libraries used for Data visualization
@@ -18,7 +20,8 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 * Decision Tree Classifier
 * Random Forest
 * k-nearest neighbors 
+* Smotetomek (for balancing)
 # Final Algorithm 
 * K-nearest neighbors (Tuned using GrindsearchCV Technique)
 # Evaluation Matrics Used 
-* ROC-AUC (Score Achieve : 0.92)
+* Accuracy (Score Achieve : 0.92)
