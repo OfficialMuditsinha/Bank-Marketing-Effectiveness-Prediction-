@@ -24,4 +24,4 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 # Final Algorithm 
 * K-nearest neighbors (Tuned using GrindsearchCV Technique)
 # Evaluation Matrics Used 
-* Accuracy (Score Achieve : 0.92)
+* Accuracy (Score Achieve : 0.88)
